@@ -1,7 +1,6 @@
 # ForkTheory
 
 ---
-layout: minimal
 title: ForkTheory
 ---
 
