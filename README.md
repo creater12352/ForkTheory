@@ -1,7 +1,7 @@
 # ForkTheory
 
 ---
-layout: default
+layout: minimal
 title: ForkTheory
 ---
 
